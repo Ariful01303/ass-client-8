@@ -10,12 +10,12 @@ const Amount = (props) => {
     
     let totalQuantity=0
     let total=0;
-    for(const prodact of carts){
-        if(!prodact.quantity){
-            prodact.quantity=1
+    for(const actors of carts){
+        if(!actors.quantity){
+            actors.quantity=1
         }
-        total=total+prodact.salary*prodact.quantity;
-        totalQuantity=totalQuantity+prodact.quantity;
+        total=total+actors.salary*actors.quantity;
+        totalQuantity=totalQuantity+actors.quantity;
         
 
     }
