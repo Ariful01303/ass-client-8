@@ -1,0 +1,18 @@
+.carts{
+    text-align: center;
+    border: 1px solid black;
+    background: rgba(219, 154, 154, 0.877);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+.carts img{
+    border-radius: 50%;
+    
+}
+.extra-style{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+}

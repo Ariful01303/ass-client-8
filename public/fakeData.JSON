@@ -1,90 +1,223 @@
 [
-    {
-      "name": "Engin Altan Düzyatan",
-      "role": "Halime Hatun",
-      "age": "28",
-      "salary": "27000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/01/Esra-Bilgi%C3%A7-150x150.jpg"
-    },
-    {
-      "name": "Batuhan Karacakaya",
-      "role": "Dündar",
-      "age": "24",
-      "salary": "21000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2019/12/Batuhan-Karacakaya-150x150.jpg"
-    },
-    {
-      "name": "Hande Soral",
-      "role": "Ilbilge Hatun",
-      "age": "42",
-      "salary": "18000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/02/handesoral_77116355_2749014608478490_501620060403965376_n-150x150.jpg"
-    },
-    {
-      "name": "Hasan Küçükçetin",
-      "role": "Semsettin Altunaba",
-      "age": "40",
-      "salary": "20000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/02/hasankucukcetin_26864214_1973754589539812_4306067076335796224_n-150x150.jpg"
-    },
-    {
-      "name": " Engin Altan Düzyatan",
-      "role": "Ertugrul Bey",
-      "age": "42",
-      "salary": "30000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/01/Engin-Altan-D%C3%BCzyatan-150x150.jpg"
-    },
-    {
-      "name": " Hülya Darcan",
-      "role": "Hayme Ana",
-      "age": "70",
-      "salary": "30000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/H%C3%BClya-Darcan-body-150x150.jpg"
-    },
-    {
-      "name": "Cengiz Coşkun",
-      "role": "Turgut Alp",
-      "age": "39",
-      "salary": "23000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/01/Engin-Altan-D%C3%BCzyatan-150x150.jpg"
-    },
-    {
-      "name": " Engin Altan Düzyatan",
-      "role": "Ertugrul Bey",
-      "age": "42",
-      "salary": "30000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Cengiz-Co%C5%9Fkun-GF-150x150.jpg"
-    },
-    {
-      "name": "Nurettin Sönmez",
-      "role": "Bamsi Beyrek",
-      "age": "43",
-      "salary": "30000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Nurettin-S%C3%B6nmez-networth-150x150.jpg"
-    },
-    {
-      "name": "Ayberk Pekcan",
-      "role": "Artuk Bey",
-      "age": "51",
-      "salary": "30000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Ayberk-Pekcan-facts-150x150.jpg"
-    },
-    {
-      "name": "Cavit Çetin Güner",
-      "role": "Dogan Bey",
-      "age": "35",
-      "salary": "30000",
-      "nationality": "Turkish",
-      "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Cavit-%C3%87etin-G%C3%BCner-age-150x150.jpg"
-    }
-  ]
+  {
+     "name": "Engin Altan Düzyatan",
+     "role": "Ertugrul Bey",
+     "age": "42",
+     "salary": "30000",
+     "contact": "92456501",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/01/Engin-Altan-D%C3%BCzyatan-150x150.jpg"
+   },
+   {
+     "name": "Esra Bilgiç",
+     "role": "Halime Hatun",
+     "age": "28",
+     "salary": "27000",
+     "contact": "92456502",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/01/Esra-Bilgi%C3%A7-150x150.jpg"
+   },
+   {
+     "name": "Batuhan Karacakaya",
+     "role": "Dündar",
+     "age": "24",
+     "salary": "21000",
+     "contact": "92456503",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2019/12/Batuhan-Karacakaya-150x150.jpg"
+   },
+   {
+     "name": "Hande Soral",
+     "role": "Ilbilge Hatun",
+     "age": "42",
+     "salary": "18000",
+     "contact": "92456504",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/02/handesoral_77116355_2749014608478490_501620060403965376_n-150x150.jpg"
+   },
+   {
+     "name": "Hasan Küçükçetin",
+     "role": "Semsettin Altunaba",
+     "age": "40",
+     "salary": "20000",
+     "contact": "92456505",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/02/hasankucukcetin_26864214_1973754589539812_4306067076335796224_n-150x150.jpg"
+   },
+   
+   {
+     "name": " Hülya Darcan",
+     "role": "Hayme Ana",
+     "age": "70",
+     "salary": "27000",
+     "contact": "92456506",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/H%C3%BClya-Darcan-body-150x150.jpg"
+   },
+   
+   {
+     "name": " Engin Altan Düzyatan",
+     "role": "Ertugrul Bey",
+     "age": "42",
+     "salary": "26000",
+     "contact": "92456507",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Cengiz-Co%C5%9Fkun-GF-150x150.jpg"
+   },
+   {
+     "name": "Nurettin Sönmez",
+     "role": "Bamsi Beyrek",
+     "age": "43",
+     "salary": "24000",
+     "contact": "92456509",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Nurettin-S%C3%B6nmez-networth-150x150.jpg"
+   },
+   {
+     "name": "Ayberk Pekcan",
+     "role": "Artuk Bey",
+     "age": "51",
+     "salary": "19000",
+     "contact": "92456510",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Ayberk-Pekcan-facts-150x150.jpg"
+   },
+   {
+     "name": "Cavit Çetin Güner",
+     "role": "Dogan Bey",
+     "age": "35",
+     "salary": "23000",
+     "contact": "92456511",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Cavit-%C3%87etin-G%C3%BCner-age-150x150.jpg"
+   },
+ 
+  
+   {
+     "name": "Didem Balçın",
+     "role": "Selcan Hatun",
+     "age": "39",
+     "salary": "35000",
+     "contact": "92456512",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Didem-Bal%C3%A7%C4%B1n-height-150x150.jpg"
+   },
+   {
+     "name": "Kaan Taşaner",
+     "role": "Gündogdu",
+     "age": "42",
+     "salary": "25000",
+     "contact": "92456513",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Kaan-Ta%C5%9Faner-wife-150x150.jpg"
+   },
+   {
+     "name": "Murat Garipağaoğlu",
+     "role": "Sadeddin Köpek",
+     "age": "51",
+     "salary": "28000",
+     "contact": "92456514",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Murat-Garipa%C4%9Fao%C4%9Flu-age-150x150.jpg"
+   },
+   {
+     "name": "Hande Subaşı",
+     "role": "Aykiz",
+     "age": "37",
+     "salary": "20000",
+     "contact": "92456515",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Hande-Suba%C5%9F%C4%B1-bio-150x150.jpg"
+   },
+   {
+     "name": "Burcu Kiratli",
+     "role": " Gökçe",
+     "age": "32",
+     "salary": "30000",
+     "contact": "92456516",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Burcu-K%C4%B1ratl%C4%B1-bio-150x150.jpg"
+   },
+   {
+     "name": "Burçin Abdullah",
+     "role": " Helena",
+     "age": "34",
+     "salary": "29000",
+     "contact": "92456517",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Bur%C3%A7in-Abdullah-husband-150x150.jpg"
+   },
+   {
+     "name": "Serdar Gökhan",
+     "role": "Süleyman Sah",
+     "age": "75",
+     "salary": "35000",
+     "contact": "92456518",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Serdar-G%C3%B6khan-age-150x150.jpg"
+   },
+   
+   {
+     "name": " Serdar Deniz",
+     "role": "Titus",
+     "age": "52",
+     "salary": "21000",
+     "contact": "92456519",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Serdar-Deniz-bio-150x150.jpg"
+   },
+   {
+     "name": " Barış Bağcı",
+     "role": "Baycu Noyan",
+     "age": "46",
+     "salary": "35000",
+     "contact": "92456520",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Bar%C4%B1%C5%9F-Ba%C4%9Fc%C4%B1-height-150x150.jpg"
+   },
+   {
+     "name": "Kürşat Alnıaçık",
+     "role": "Ural Bey",
+     "age": "59",
+     "salary": "25000",
+     "contact": "92456521",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/K%C3%BCr%C5%9Fat-Aln%C4%B1a%C3%A7%C4%B1k-height-150x150.jpg"
+   },
+   {
+     "name": "Haluk Levent Öktem",
+     "role": "Üstad-i Azam",
+     "age": "76",
+     "salary": "36000",
+     "contact": "92456522",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/05/Levent-%C3%96ktem-facts-150x150.jpg"
+   },
+   {
+     "name": "Turgut Tunçalp",
+     "role": "Afsin Bey",
+     "age": "45",
+     "salary": "23000",
+     "contact": "92456523",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/06/Turgut-Tun%C3%A7alp-networth-150x150.jpg"
+   },
+   {
+     "name": "Sezgin Erdemir",
+     "role": "Sezgin Erdemir",
+     "age": "45",
+     "salary": "46000",
+     "contact": "92456524",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/06/Sezgin-Erdemir-networth-150x150.jpg"
+   },
+   {
+     "name": "Öykü Çelik",
+     "role": "Sirma Hatun",
+     "age": "34",
+     "salary": "24000",
+     "contact": "92456525",
+     "nationality": "Turkish",
+     "photo": "https://superstarsbio.com/wp-content/uploads/2020/06/%C3%96yk%C3%BC-%C3%87elik-height-150x150.jpg"
+   }
+ ]

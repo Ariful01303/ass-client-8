@@ -1,0 +1,11 @@
+body{
+    background: rgb(243, 225, 225);
+}
+.ex-st{
+    color: blue;
+}
+.added{
+    margin-top: 5px;
+    background: rgba(245, 181, 181, 0.863);
+    border-radius: 10px;
+}

@@ -1,0 +1,15 @@
+
+.ex-style{
+    background: rgba(215, 216, 145, 0.726);
+    width: 200px;
+    margin: 5px;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+}
+.ex-style img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    
+}
